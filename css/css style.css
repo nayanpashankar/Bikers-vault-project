@@ -1,0 +1,92 @@
+.container
+{
+    background-color: black;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+#top{
+    text-align:center;
+    text-transform: uppercase;
+    font-size:large;
+    margin-top: 20px;
+    cursor: pointer;
+    font-weight:bolder;
+    font-family:monospace;
+    
+    
+}
+#top a
+{
+    color: orange;
+    text-decoration: none;
+    text-shadow: 2px 0px 5px white;
+}
+#top2
+{
+    background-color: black;
+   
+    text-align: center;
+    
+}
+
+#h1
+{
+    text-align: center;
+    color: white;
+    font-size:xx-large;
+    text-transform: uppercase;
+    font-family:Kirang Haerang;
+    text-shadow: 5px  0px 3px red;
+    font-weight: bolder;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#h5
+{
+    text-align: center;
+    color:rgb(255, 0, 13);
+    font-weight: bolder;
+    text-shadow: 2px  0px 5px orange;
+    padding-top: 0px;
+    margin-bottom: 5px;
+}
+
+.courses h3 {
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 4px solid orangered;
+    padding-bottom: 5px;
+    color: orange;
+}
+p{
+    color: orange;
+}
+.header2
+{
+    text-align: center;
+    padding-bottom: 5px;
+    color: orangered;
+ 
+}
+h3{
+    color: orangered;
+    text-align: center;
+}
+footer{
+    
+    padding: 10px 0;
+    color: orangered
+}
+footer a{
+    color: orange
+}
+.midcol
+{
+    text-align:center;
+}  
+
+
